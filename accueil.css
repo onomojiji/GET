@@ -3,7 +3,14 @@ body
 
 }
 
-header
-{
+header{
     padding: 1%;
+}
+
+#btn-v-classique{
+    background-color: rosybrown;
+}
+
+#btn-v-beta{
+    border-bottom: 2% solid rebeccapurple;
 }
