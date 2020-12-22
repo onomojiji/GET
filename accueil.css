@@ -8,9 +8,14 @@ header{
 }
 
 #btn-v-classique{
-    background-color: rosybrown;
+    background-color:green;
 }
 
 #btn-v-beta{
-    border-bottom: 2% solid rebeccapurple;
+    text-decoration: blue;
+    text-decoration-color: blue;
 }
+
+#imageAccueil{
+    padding: 10%;
+    background-image: url(images/imageAccueil.jpg);
