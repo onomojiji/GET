@@ -1,6 +1,6 @@
 body
 {
-
+    font: outline;
 }
 
 header{
@@ -17,5 +17,10 @@ header{
 }
 
 #imageAccueil{
-    padding: 10%;
+    padding: 20%;
     background-image: url(images/imageAccueil.jpg);
+}
+
+#textAfterImage{
+    padding-top: 5%;
+}
