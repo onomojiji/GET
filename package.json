@@ -1,0 +1,24 @@
+{
+  "name": "get",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-icons": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onomojiji/GET.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onomojiji/GET/issues"
+  },
+  "homepage": "https://github.com/onomojiji/GET#readme",
+  "description": ""
+}

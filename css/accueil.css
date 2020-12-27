@@ -7,6 +7,10 @@ header{
     padding: 1%;
 }
 
+.fond-menu{
+    background-color: gainsboro;
+}
+
 #btn-v-classique{
     background-color:green;
 }
