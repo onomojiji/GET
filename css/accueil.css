@@ -11,6 +11,10 @@ header{
     background-color: gainsboro;
 }
 
+.bg-orange{
+    background-color: orange;
+}
+
 #btn-v-classique{
     background-color:green;
 }
